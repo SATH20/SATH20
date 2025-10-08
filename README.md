@@ -51,7 +51,7 @@ A dashboard visualizing crime patterns with geospatial heatmaps. Added real-time
 Python, LangChain, FastAPI, FAISS, React  
 Deployed RAG chatbot for garden queries using semantic search and vector embeddings. REST API with FastAPI and full client integration.
 
-**QuickShow**  
+**Movie Ticket Booking**  
 MongoDB, Express.js, React, Node.js, Tailwind CSS  
 Scalable movie booking platform with seat selection, user authentication, real-time seat updates, REST APIs.
 
