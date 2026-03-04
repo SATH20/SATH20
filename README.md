@@ -1,6 +1,6 @@
 <img align="center" src="https://avatars.githubusercontent.com/u/[YOUR_GITHUB_USER_ID]" width="120" style="border-radius:50%;" />
 
-# 👋 About Me
+# 👋 Intro
 
 Hi, I'm Sathwik Rajavarapu, a motivated software developer skilled in Java, Python, JavaScript, and full-stack development. I enjoy applying my knowledge to create effective and user-friendly software solutions while contributing to innovative projects. I'm committed to continuously growing my technical skills and making a meaningful impact.
 
@@ -32,7 +32,7 @@ Hi, I'm Sathwik Rajavarapu, a motivated software developer skilled in Java, Pyth
 
 ---
 
-## 📚 What I am currently improving on
+## 📚 Currently Working On
 
 ![LangChain](https://img.shields.io/badge/LangChain-yellow?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
